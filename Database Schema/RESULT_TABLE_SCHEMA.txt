@@ -1,0 +1,12 @@
+CREATE TABLE result (
+    student_no int(100) PRIMARY KEY AUTO_INCREMENT,
+    rollNo VARCHAR(10),
+    name VARCHAR(100),
+    doe DATE,
+    total_question INT(5) DEFAULT 10,
+    total_marks INT(5) DEFAULT 20,
+    marksobt INT(5),
+    total_attempted INT(5),
+    wrong_answer INT(5),
+    FOREIGN KEY(rollNo) REFERENCES student(rollNo) ON DELETE CASCADE
+);

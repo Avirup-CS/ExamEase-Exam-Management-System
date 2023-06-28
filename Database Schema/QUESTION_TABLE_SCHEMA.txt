@@ -1,0 +1,10 @@
+CREATE TABLE question (
+  id int(100) PRIMARY KEY AUTO_INCREMENT,
+  name varchar(500) DEFAULT NULL,
+  opt1 varchar(500) DEFAULT NULL,
+  opt2 varchar(500) DEFAULT NULL,
+  opt3 varchar(500) DEFAULT NULL,
+  opt4 varchar(500) DEFAULT NULL,
+  answer varchar(500) DEFAULT NULL,
+  explanation varchar(1000) DEFAULT NULL
+);

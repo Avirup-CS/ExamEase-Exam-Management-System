@@ -1,0 +1,23 @@
+CREATE TABLE student (
+   rollNo varchar(10) PRIMARY KEY,
+   name varchar(100) DEFAULT NULL,
+   fatherName varchar(100) DEFAULT NULL,
+   motherName varchar(100) DEFAULT NULL,
+   gender varchar(50) DEFAULT NULL,
+   contactNo varchar(10) DEFAULT NULL,
+   email varchar(100) DEFAULT NULL,
+   tenthUniversityName varchar(200) DEFAULT NULL,
+   tenthPercentage varchar(10) DEFAULT NULL,
+   tenthPassoutYear varchar(5) DEFAULT NULL,
+   twelveUniversityName varchar(200) DEFAULT NULL,
+   twelvePercentage varchar(10) DEFAULT NULL,
+   twelvePassoutYear varchar(5) DEFAULT NULL,
+   graduationUniversityName varchar(200) DEFAULT NULL,
+   graduationPercentage varchar(10) DEFAULT NULL,
+   graduationPassoutYear varchar(5) DEFAULT NULL,
+   address varchar(500) DEFAULT NULL,
+   password varchar(25) NOT NULL
+);
+
+
+
