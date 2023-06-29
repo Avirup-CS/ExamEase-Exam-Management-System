@@ -1,1 +1,13 @@
-This is the Final Semester Project of our Graduation. It is Submitted to the Faculty of Computer Science, Asutosh College, University of Calcutta by Avirup Poddar (203012-21-0031), Sribas Tirupati Ruj (203012-21-0297), Dibyendu Das (203012-11-0254) and Mayukh Mitra (203012-21-0387).
+ABOUT
+
+This is an Academic Project made by B.Sc Computer Science (Honours) Final Year Students.
+
+Developed and Maintained by
+
+Avirup Poddar
+
+Sribas Tirupati Ruj
+
+Dibyendu Das
+
+Mayukh Mitra
