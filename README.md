@@ -2,7 +2,7 @@ ABOUT
 
 This is an Academic Project made by B.Sc Computer Science (Honours) Final Year Students.
 
-Developed and Maintained by
+Developed and Maintained by-
 
 Avirup Poddar
 
